@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "username": "Post 1", "password": "11111111", "phonenumber": 123 },
-    { "id": 2, "username": "Post 2", "password": "22222222", "phonenumber": 123 },
-    { "id": 3, "username": "Post 3", "password": "33333333", "phonenumber": 123 }
+    { "id": 1, "username": "Post 1", "password": "11111111", "phonenumber": 123, "unique": 123 },
+    { "id": 2, "username": "Post 2", "password": "22222222", "phonenumber": 123, "unique": 123 },
+    { "id": 3, "username": "Post 3", "password": "33333333", "phonenumber": 123, "unique": 123 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
